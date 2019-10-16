@@ -10,3 +10,11 @@ Concorrente direto: [Foodies](https://play.google.com/store/apps/details?id=com.
 Diferencial: 
 Uma base de dados com receitas mais interessantes
 Usabilidade mais simples, prática e funcional. A referência de usabilidade é o app [Cocktail Flow](https://play.google.com/store/apps/details?id=hu.distinction.cflow&hl=en) 
+
+## Features
+
+Feature | Descrição | Issue
+------------ | ------------- | -------------
+*buscapornome* | Busca receitas pela lista de nomes de ingredientes | #1
+*buscaporimagem* | Busca de receitas a partir de fotos de ingredientes | #2
+*receitasacessadas* | Listar as ultimas receitas acessadas | #3
