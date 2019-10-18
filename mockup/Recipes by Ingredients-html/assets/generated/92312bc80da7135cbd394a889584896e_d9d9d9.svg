@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Egg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-247.000000, 2.000000)" stroke="#d9d9d9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Egg" transform="translate(249.000000, 4.000000)" sketch:type="MSShapeGroup">
+                <path d="M21.9522131,0.872823934 C21.9522131,0.872823934 8.15481603,2.57385969 5.92265804,12.0345191 C3.69050005,21.4951784 -5.6661063,29.4538568 6.65374183,39.3696335 C18.97359,49.2854101 25.4990544,41.6705566 33.6893653,42.7608489 C41.8796762,43.8511412 50.061841,46.6053715 52.1827089,38.9823762 C54.3035768,31.3593809 55.1694773,22.6768551 51.7275911,18.1365353 C48.2857049,13.5962155 45.4780913,11.6563099 45.4780914,6.2645669 C45.4780915,0.872823934 21.9522131,0.872823934 21.9522131,0.872823934 Z" id="Path-1335"></path>
+                <circle id="Oval-621" cx="21.5" cy="22.5" r="9.5"></circle>
+                <path d="M21.5,16 C17.9101491,16 15,18.9101491 15,22.5" id="Oval-622"></path>
+            </g>
+        </g>
+    </g>
+</svg>

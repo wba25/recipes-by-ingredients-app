@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Tomato</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-607.000000, -358.000000)" stroke="#d9d9d9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Tomato" transform="translate(615.000000, 360.000000)" sketch:type="MSShapeGroup">
+                <path d="M23,56 C35.7025492,56 46,45.7025492 46,33 C46,20.2974508 35.7025492,12 23,12 C10.2974508,12 0,20.2974508 0,33 C0,45.7025492 10.2974508,56 23,56 Z" id="Oval-655"></path>
+                <path d="M23,51 C32.9411255,51 41,43.042879 41,33.2272727" id="Oval-656"></path>
+                <path d="M12.8026592,12.9591741 L8,6.8544684 C8,6.8544684 11.8300102,1.97422968 16.0822251,4.01366781 C20.3344399,6.05310595 18.4107166,8.5184325 18.4107166,8.5184325 L25.7500136,0.198304058 L25.0946662,8.51843217 C25.0946662,8.51843217 32.0604437,1.61267343 34.5658506,4.23357083 C37.0712575,6.85446823 27.9152532,13 27.9152532,13" id="Path-1427" transform="translate(21.500000, 6.599152) scale(-1, 1) translate(-21.500000, -6.599152) "></path>
+                <path d="M11.5151708,20.4831735 C7.44949696,23.589435 4.82660624,28.488413 4.82660624,34" id="Oval-656"></path>
+            </g>
+        </g>
+    </g>
+</svg>

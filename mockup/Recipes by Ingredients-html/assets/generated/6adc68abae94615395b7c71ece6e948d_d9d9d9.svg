@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Sushi</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-367.000000, -1078.000000)" stroke="#d9d9d9" stroke-width="2" stroke-linejoin="round">
+            <g id="Sushi" transform="translate(374.000000, 1080.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,36 L0,53 L0.456813384,53 C2.06646851,54.7252272 7.74358207,56 14.5,56 C21.2564179,56 26.9335315,54.7252272 28.5431866,53 L29,53 L29,36" id="Rectangle-774" stroke-linecap="round"></path>
+                <ellipse id="Oval-733" stroke-linecap="round" cx="14.5" cy="37" rx="13.5" ry="5"></ellipse>
+                <ellipse id="Oval-732" stroke-linecap="round" cx="14" cy="37" rx="5" ry="2"></ellipse>
+                <path d="M50.2267289,0.427585527 L1.77327108,25.5724145" id="Line" stroke-linecap="square"></path>
+                <path d="M48.9595874,8.80697491 L2.04041263,29.1930251" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

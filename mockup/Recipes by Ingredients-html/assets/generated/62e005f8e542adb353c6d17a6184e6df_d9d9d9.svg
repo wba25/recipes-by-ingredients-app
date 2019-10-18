@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Colddrink</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-847.000000, -358.000000)" stroke="#d9d9d9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Colddrink" transform="translate(861.000000, 361.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,13 L28,13 L26,53 L2,53 L0,13 Z" id="Rectangle-699"></path>
+                <path d="M5,21 L23,21 L21.7142857,53 L6.28571429,53 L5,21 Z" id="Rectangle-700"></path>
+                <path d="M10.3050932,21.7285269 L9.61955074,6.17430445 L1.73099371,0.0351456313" id="Path-1488"></path>
+                <circle id="Oval-658" cx="15" cy="29" r="2"></circle>
+                <circle id="Oval-659" cx="11" cy="38" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
