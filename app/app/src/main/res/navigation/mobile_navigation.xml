@@ -3,23 +3,23 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/navigation_home">
+    app:startDestination="@+id/navigation_discover">
 
     <fragment
-        android:id="@+id/navigation_home"
-        android:name="welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.home.HomeFragment"
+        android:id="@+id/navigation_discover"
+        android:name="welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.discover.DiscoverFragment"
         android:label="@string/title_discover"
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.dashboard.DashboardFragment"
+        android:id="@+id/navigation_recipes"
+        android:name="welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.recipes.RecipesFragment"
         android:label="@string/title_recipes"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.notifications.NotificationsFragment"
+        android:id="@+id/navigation_kitchen"
+        android:name="welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.kitchen.KitchenFragment"
         android:label="@string/title_kitchen"
         tools:layout="@layout/fragment_notifications" />
 </navigation>

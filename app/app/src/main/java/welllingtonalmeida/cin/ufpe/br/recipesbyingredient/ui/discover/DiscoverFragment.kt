@@ -1,4 +1,4 @@
-package welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.notifications
+package welllingtonalmeida.cin.ufpe.br.recipesbyingredient.ui.discover
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,20 +10,20 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import welllingtonalmeida.cin.ufpe.br.recipesbyingredient.R
 
-class NotificationsFragment : Fragment() {
+class DiscoverFragment : Fragment() {
 
-    private lateinit var notificationsViewModel: NotificationsViewModel
+    private lateinit var discoverViewModel: DiscoverViewModel
 
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        notificationsViewModel =
-            ViewModelProviders.of(this).get(NotificationsViewModel::class.java)
-        val root = inflater.inflate(R.layout.fragment_notifications, container, false)
-        val textView: TextView = root.findViewById(R.id.text_notifications)
-        notificationsViewModel.text.observe(this, Observer {
+        discoverViewModel =
+            ViewModelProviders.of(this).get(DiscoverViewModel::class.java)
+        val root = inflater.inflate(R.layout.fragment_discover, container, false)
+        val textView: TextView = root.findViewById(R.id.text_discover)
+        discoverViewModel.text.observe(this, Observer {
             textView.text = it
         })
         return root
